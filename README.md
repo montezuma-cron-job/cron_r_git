@@ -2,7 +2,7 @@
 
 Package using cron to run an R script and push results to a remote git repo
 
-### *(Page: CONFIG)*
+### CONFIG
 
 server config:
 
