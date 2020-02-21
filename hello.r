@@ -1,5 +1,5 @@
 sayHello <- function(){
-   write("hello", "test.txt", append=TRUE)
+   write("hello", "r_results/test.txt", append=TRUE)
 }
 
 sayHello()
