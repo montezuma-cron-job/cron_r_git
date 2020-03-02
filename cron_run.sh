@@ -41,7 +41,7 @@ fi
 
 echo running the R script
 # ********** ADD R SCRIPT HERE
-R < hello.r --no-save  
+Rscript < hello.r --no-save  
 # have it output it's results into this same directory tree
 
 RESULT=$?
